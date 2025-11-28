@@ -10,6 +10,13 @@ header {
     color: rgb(140, 30, 103);
     background: aliceblue;
 }
+.chamada{
+    background: chartreuse;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
 
 p {
     text-align: center;
