@@ -4,6 +4,7 @@ body {
 }
 header{
     border-bottom: solid 2px rgb(rgb(170, 105, 171));
+    padding: 20px;
 }
 
 p {
