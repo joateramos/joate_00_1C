@@ -1,7 +1,9 @@
 body {
     color: pink;
-
     background: black;
+}
+header{
+    border-bottom: solid 2px rgb(rgb(170, 105, 171));
 }
 
 p {
