@@ -2,9 +2,13 @@ body {
     color: pink;
     background: black;
 }
-header{
+
+header {
     border-bottom: solid 2px rgb(rgb(170, 105, 171));
     padding: 20px;
+    font-size: 32px;
+    color: rgb(140, 30, 103);
+    background: aliceblue;
 }
 
 p {
