@@ -1,5 +1,5 @@
 body {
-    color: pink;
+    color: blueviolet;
     background: black;
 }
 
@@ -11,7 +11,7 @@ header {
     background: aliceblue;
 }
 .chamada{
-    background: rgb(77, 104, 50);
+    background: chartreuse;
     padding-bottom: 100px;
     padding-top: 100px;
     display: flex;
