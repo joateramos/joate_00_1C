@@ -1,27 +1,44 @@
+# styles.css
+
 body {
-    color: pink;
-    background: black;
+    color: blue;
+    background: darkgray;
+    margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(rgb(170, 105, 171));
+    border-bottom: solid 2px rgb(192, 6, 248);
     padding: 20px;
     font-size: 32px;
-    color: rgb(140, 30, 103);
-    background: aliceblue;
+    color: black;
+    background: rgb(105, 67, 99);
 }
-.chamada{
-    background: chartreuse;
+
+.chamada {
+    background: bisque;
     padding-bottom: 100px;
     padding-top: 100px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto{
+.chamada-texto {
     margin: right 5%;
 }
-
-p {
-    text-align: center;
-    font-size: 10px;
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    height: 100px;
+}
+.categorias_videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
